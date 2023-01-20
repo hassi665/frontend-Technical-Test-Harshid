@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomePage Functionality Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="41.222">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToHomePage" time="41.222" classname="co.uk.heartbingo.testsuite.HomePageTest" />
+      
+</testsuite>

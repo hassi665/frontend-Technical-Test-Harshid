@@ -1,0 +1,43 @@
+2022-12-17 11:12:463 INFO  HomePage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (a48c6533482738d386aca59e290d0edb)] -> link text: Log in]
+2022-12-17 11:12:509 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a48c6533482738d386aca59e290d0edb)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 11:12:423 INFO  HomePage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1f30a4893250fbc030b2f7ab3b7a6bd3)] -> link text: Log in]
+2022-12-17 11:12:474 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1f30a4893250fbc030b2f7ab3b7a6bd3)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 11:41:41 INFO  HomePage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (28340c71a1fd01a4f985f3a243079017)] -> link text: Log in]
+2022-12-17 11:41:41 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (28340c71a1fd01a4f985f3a243079017)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-01-17 19:05:26 INFO  HomePage :23 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (03438a0e4ae9913a032c4354a474f94c)] -> id: onetrust-accept-btn-handler]
+2023-01-17 19:06:01 INFO  HomePage :23 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (e8de6c24ae37cbf53e6e1bcb89196057)] -> id: onetrust-accept-btn-handler]
+2023-01-17 19:06:20 INFO  HomePage :23 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (44bbae288f9bba5989245f2f1a5af955)] -> id: onetrust-accept-btn-handler]
+2023-01-17 20:39:14 INFO  HomePage :23 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (35bfe9c4c9e57c9017d189e09e1667dc)] -> id: onetrust-accept-btn-handler]
+2023-01-17 21:38:06 INFO  HomePage :25 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (bcbf3f5526854f10e1c1410353493292)] -> id: onetrust-accept-btn-handler]
+2023-01-17 21:38:07 INFO  HomePage :30 - Clicking on Homepage Logo : [[ChromeDriver: chrome on WINDOWS (bcbf3f5526854f10e1c1410353493292)] -> xpath: //a[@class = 'bvs-site-logo']]
+2023-01-17 21:38:27 INFO  HomePage :34 - Url : Proxy element for: DefaultElementLocator 'By.linkText: https://www.heartbingo.co.uk/en-gb/'
+2023-01-17 21:39:58 INFO  HomePage :25 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (61a4dad442aac8e8913604ca6b322356)] -> id: onetrust-accept-btn-handler]
+2023-01-17 21:39:58 INFO  HomePage :30 - Clicking on Homepage Logo : [[ChromeDriver: chrome on WINDOWS (61a4dad442aac8e8913604ca6b322356)] -> xpath: //a[@class = 'bvs-site-logo']]
+2023-01-17 21:52:02 INFO  HomePage :28 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (febe03fb97ee39e7715dd7f771ce3533)] -> id: onetrust-accept-btn-handler]
+2023-01-17 21:52:20 INFO  HomePage :33 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 21:55:10 INFO  HomePage :28 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (c15902d5a8287e82c7e710593066c8b1)] -> id: onetrust-accept-btn-handler]
+2023-01-17 21:55:30 INFO  HomePage :33 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 21:55:51 INFO  HomePage :38 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-17 21:56:12 INFO  HomePage :42 - Url : Proxy element for: DefaultElementLocator 'By.linkText: https://www.heartbingo.co.uk/en-gb/'
+2023-01-17 22:09:11 INFO  HomePage :28 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (b392ae9b6ed3159704a598d57fa36594)] -> id: onetrust-accept-btn-handler]
+2023-01-17 22:09:31 INFO  HomePage :33 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 22:09:52 INFO  HomePage :38 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-17 22:10:13 INFO  HomePage :42 - Url : Proxy element for: DefaultElementLocator 'By.linkText: https://www.heartbingo.co.uk/en-gb/'
+2023-01-17 22:10:56 INFO  HomePage :28 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (8583143b725e3ee28091518d2d2ac809)] -> id: onetrust-accept-btn-handler]
+2023-01-17 22:11:16 INFO  HomePage :33 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 22:11:37 INFO  HomePage :38 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-17 22:20:14 INFO  HomePage :25 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (506f8b6e6dd7b154084a1a0242de533e)] -> id: onetrust-accept-btn-handler]
+2023-01-17 22:20:35 INFO  HomePage :30 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 22:20:55 INFO  HomePage :35 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-17 22:43:31 INFO  HomePage :26 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (c37059802f3d83ccff5c28dd1dced5fc)] -> id: onetrust-accept-btn-handler]
+2023-01-17 22:43:52 INFO  HomePage :31 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 22:44:12 INFO  HomePage :36 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-17 22:44:48 INFO  HomePage :26 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (d970b72f1bc3affe6b2d312a7fe54cfd)] -> id: onetrust-accept-btn-handler]
+2023-01-17 22:45:09 INFO  HomePage :31 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-17 22:45:29 INFO  HomePage :36 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-19 22:23:27 INFO  HomePage :26 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (7c9606a781c59eae330dd11d52e55092)] -> id: onetrust-accept-btn-handler]
+2023-01-19 22:23:48 INFO  HomePage :31 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-19 22:24:08 INFO  HomePage :36 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
+2023-01-19 22:27:41 INFO  HomePage :26 - Clicking on Accepting All Cookies : [[ChromeDriver: chrome on WINDOWS (7a473ee47da1ca4f686c9bdd87bf21bf)] -> id: onetrust-accept-btn-handler]
+2023-01-19 22:28:02 INFO  HomePage :31 - Clicking on Casino option : Proxy element for: DefaultElementLocator 'By.xpath: //li[@class = 'section site-main-nav__item']//a[contains(text(), 'Casino')]'
+2023-01-19 22:28:22 INFO  HomePage :36 - Clicking on Homepage Logo : Proxy element for: DefaultElementLocator 'By.xpath: //button[@class = 'site-header__back-button bvs-icon is-arrow-left']'
